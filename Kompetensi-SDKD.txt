@@ -3,3 +3,8 @@ a.komunikasi daring sinkron
  -  line
 b.komunikasi daring asinkron
  -  email
+C.github
+ -membuat akun
+ -membuat repository
+d.git
+ -belum
